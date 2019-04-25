@@ -1,1 +1,1 @@
-## Dummy project of implementing ***[base](https://github.com/arhanashik/base)*** library
+## Dummy project of implementing [base](https://github.com/arhanashik/base) library
